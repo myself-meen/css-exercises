@@ -1,5 +1,6 @@
 .odd{
     font-family: 'Verdana','DejaVu Sans',sans-serif;
+    background-color:  rgb(237, 180, 180);
 
 }
 #nobg{
@@ -10,7 +11,7 @@
     font-size: 24px;
 }
 #yesbg{
-    background-color: rgb(169, 228, 163);
+    background-color: rgb(0, 228, 163);
     font-size: 24px;
     font-weight: bold;
 }
